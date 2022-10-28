@@ -23,4 +23,4 @@ if otv == 3:
 if otv == 4:
     print(deli(n1,n2))
 else:
-    print("You write wrong number"
+    print("You write wrong number")
